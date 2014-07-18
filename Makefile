@@ -1,4 +1,4 @@
-PAPER=code-review
+PAPER=wssspe2014-code-review
 
 all : ${PAPER}.pdf
 
